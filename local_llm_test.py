@@ -14,7 +14,7 @@ params = TextChatParameters(
 )
 
 model = ModelInference(
-    odel_id='meta-llama/llama-4-maverick-17b-128e-instruct-fp8, 
+    model_id='meta-llama/llama-4-maverick-17b-128e-instruct-fp8', 
     params=params,
     credentials={
         "apikey": watsonx_API,
