@@ -5,7 +5,6 @@
 ![Gradio](https://img.shields.io/badge/UI-Gradio_5.12.0-ff69b4?logo=gradio)
 ![IBM watsonx.ai](https://img.shields.io/badge/LLM-IBM_watsonx.ai-0f62fe?logo=ibm)
 ![Meta Llama 4](https://img.shields.io/badge/Model-meta--llama%2Fllama--4--maverick--17b--128e--instruct--fp8-0466C8?style=flat&logo=meta&logoColor=white)
-![Meta Llama 4](https://img.shields.io/static/v1?label=Model&message=meta-llama/llama-4-maverick-17b-128e-instruct-fp8&color=0466C8&style=flat&logo=meta&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Build-Passing-brightgreen?logo=githubactions)
