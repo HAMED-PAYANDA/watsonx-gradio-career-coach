@@ -1,6 +1,6 @@
 # 🧭 AI Career Coach: IBM watsonx.ai & Gradio Assistant
 
-[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=flat&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+[![IBM Certification](https://img.shields.io/badge/IBM-AI%20Developer%20Program-blue?style=flat&logo=ibm)](https://cognitiveclass.ai/)
 ![Python Version](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Gradio](https://img.shields.io/badge/UI-Gradio_5.12.0-ff69b4?logo=gradio)
 ![IBM watsonx.ai](https://img.shields.io/badge/LLM-IBM_watsonx.ai-0f62fe?logo=ibm)
