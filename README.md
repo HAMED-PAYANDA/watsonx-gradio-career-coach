@@ -4,7 +4,6 @@
 ![Python Version](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Gradio](https://img.shields.io/badge/UI-Gradio_5.12.0-ff69b4?logo=gradio)
 ![IBM watsonx.ai](https://img.shields.io/badge/LLM-IBM_watsonx.ai-0f62fe?logo=ibm)
-[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=flat&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Build-Passing-brightgreen?logo=githubactions)
@@ -71,7 +70,7 @@ graph TD
 5.  **Modular Architecture:** Designed with independent scripts for distinct tasks (resume, cover letter, advice), allowing for easy scalability and maintenance.
 6.  **Cloud-Native & Local Ready:** Engineered to run seamlessly in cloud IDEs or locally on personal machines via API key authentication.
 7.  **Automated CI/CD:** Integrated GitHub Actions workflow (`python-app.yml`) automatically sets up the environment and checks for syntax errors on every push.
-8.  
+
 ---
 
 ## 🧰 Core Tech Stack
@@ -159,7 +158,6 @@ Open your web browser and navigate to http://localhost:7860 (or http://0.0.0.0:7
 **Hamed Payanda**
 * **GitHub:** [@HAMED-PAYANDA](https://github.com/HAMED-PAYANDA)
 * Completed as part of the **IBM AI Developer Program**.
-[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=flat&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 
 ---
 
