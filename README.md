@@ -1,9 +1,12 @@
 # 🧭 AI Career Coach: IBM watsonx.ai & Gradio Assistant
 
-[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=for-the-badge&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=flat&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 ![Python Version](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Gradio](https://img.shields.io/badge/UI-Gradio_5.12.0-ff69b4?logo=gradio)
 ![IBM watsonx.ai](https://img.shields.io/badge/LLM-IBM_watsonx.ai-0f62fe?logo=ibm)
+[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=flat&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.1.4-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Build-Passing-brightgreen?logo=githubactions)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
@@ -149,7 +152,17 @@ python career_advisor.py
 
 Open your web browser and navigate to http://localhost:7860 (or http://0.0.0.0:7860) to interact with the UI.
 
-👤 Author
-Hamed Payanda
-•	GitHub: @HAMED-PAYANDA
-•	Completed as part of the IBM AI Developer Program.
+---
+
+## 👤 Author
+
+**Hamed Payanda**
+* **GitHub:** [@HAMED-PAYANDA](https://github.com/HAMED-PAYANDA)
+* Completed as part of the **IBM AI Developer Program**.
+[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=flat&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
