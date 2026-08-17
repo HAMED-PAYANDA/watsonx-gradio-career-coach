@@ -155,14 +155,16 @@ Open your web browser and navigate to http://localhost:7860 (or http://0.0.0.0:7
 
 ---
 
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 👤 Author
 
 **Hamed Payanda**
 * **GitHub:** [@HAMED-PAYANDA](https://github.com/HAMED-PAYANDA)
 * Completed as part of the **IBM AI Developer Program**.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
