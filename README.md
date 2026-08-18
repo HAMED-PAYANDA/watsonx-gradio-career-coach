@@ -10,6 +10,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Build-Passing-brightgreen?logo=githubactions)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![IBM AI Developer Capstone](https://img.shields.io/badge/IBM-AI%20Developer%20Capstone-blue?style=flat&logo=ibm)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
 ## Overview
@@ -166,5 +167,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hamed Payanda**
 * **GitHub:** [@HAMED-PAYANDA](https://github.com/HAMED-PAYANDA)
-* Completed as part of the **IBM AI Developer Program**.
+* Completed as the Capstone Project for the **IBM AI Developer Program**.
 
